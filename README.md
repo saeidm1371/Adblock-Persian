@@ -1,5 +1,5 @@
 # Adblock-Persian
-در این مخزن تلاش می کنیم لیستی از محتوای سایت های فارسی را برای افزونه هایی مانند ادبلاک تهیه کنیم تا بتوان از شر تبلیغات بیهوده سایتها خلاص شویم
+در این مخزن تلاش می کنیم لیستی از محتوای سایت های فارسی را برای افزونه هایی مانند ادبلاک تهیه کنیم تا بتوان از شر تبلیغات بیهوده سایت ها خلاص شویم
 
 
 ## What is AdBlock?
@@ -9,5 +9,5 @@ AdBlock allows users to prevent page elements, such as advertisements, from bein
 AdBlock's efforts are not related to Adblock Plus.[11] The developer of AdBlock, Michael Gundlach, claims to have been inspired by the Adblock Plus extension for Firefox, which is itself based on the original Adblock that ceased development in 2004.
 https://en.wikipedia.org/wiki/AdBlock
 <div dir="rtl">
-ادبلاک افزونه ای است در جهت فیلتر کردن محتواها که در مرورگرهای گوگل کروم، سافاری اپل، فایرفاکس، اپرا و مایکروسافت اج نصب می شود
+ادبلاک افزونه ای است در جهت فیلتر کردن محتوای تبلیغاتی که در مرورگرهای گوگل کروم، سافاری اپل، فایرفاکس، اپرا و مایکروسافت اج نصب می شود
 </div>
