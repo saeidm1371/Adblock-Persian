@@ -40,6 +40,8 @@ Adblock-Persian[Adblock Plus 1.13.2]
 ##.anetwork-b.anetwork-b-600x300
 ##.anetwork-b.anetwork-b-728x90
 ##.banner
+##.banners
+##.click
 ##.cycle_adv_news
 ##.flix-float
 ##.logo_adv_container
@@ -62,6 +64,9 @@ Adblock-Persian[Adblock Plus 1.13.2]
 /agahi/*
 /files/adv/*
 /images/banners/*
+/banners/*
+/click/*
+/clicks/*
 /static/images/banner/*
 /tabligh/*
 /tabliq/*
@@ -424,7 +429,8 @@ shopkeeper.ir##.postbody > div > div > a[href^="http://go.shopkeeper.ir/"]
 skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
-
+soft98.ir##.centp
+soft98.ir##.block_h_1.block_f_t
 softgozar.com###backgray-layout
 softgozar.com###dtlAdvertiseRightPan
 softgozar.com###PopAlert
