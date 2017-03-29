@@ -492,7 +492,7 @@ zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 |http://imovie-dl.org/upload/banner*
 ||*.adnegah.net/$subdocument
-||//static.clix.ir/*
+||static.clix.ir/*
 ||1000charge.com/gifbanner/
 ||1000site.ir/asset/media/banner/
 ||1fardadownload.net/wp-content/uploads/*/*/payamgps*$image
@@ -853,6 +853,7 @@ zima.ir##.overlayDiv
 ||myfaza2music.com/*.gif
 ||music-baran.biz/*.gif
 ||mytehranmusic.com##.getgrey.adsbig
+||music-baran.biz##p[style="text-align: center;"]
 
 ! [Ad Blocking Rules]
 -ads-manager/
