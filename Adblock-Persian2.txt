@@ -1,7 +1,7 @@
-Adblock-Persian[Adblock Plus 1.13.2]
+Adblock-Persian 2 [Adblock Plus 1.13.2]
 ! 
 ! Ad blocking rules for iranian/persian websites.
-! Title :    Adblock-Persian
+! Title :    Adblock-Persian 2
 ! Download : https://github.com/saeidm1371/Adblock-Persian/blob/master/Adblock-Persian2.txt
 ! Homepage:  https://github.com/saeidm1371/Adblock-Persian
 ! Support:   https://github.com/saeidm1371/Adblock-Persian/issues 
