@@ -853,7 +853,7 @@ zima.ir##.overlayDiv
 ||myfaza2music.com/*.gif
 ||music-baran.biz/*.gif
 ||mytehranmusic.com##.getgrey.adsbig
-||music-baran.biz##p[style="text-align: center;"]
+music-baran.biz##p[style="text-align: center;"]
 
 ! [Ad Blocking Rules]
 -ads-manager/
