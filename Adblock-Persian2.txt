@@ -852,7 +852,7 @@ zima.ir##.overlayDiv
 ||stersong.top/*.gif
 ||myfaza2music.com/*.gif
 ||music-baran.biz/*.gif
-
+||mytehranmusic.com##.getgrey.adsbig
 
 ! [Ad Blocking Rules]
 -ads-manager/
