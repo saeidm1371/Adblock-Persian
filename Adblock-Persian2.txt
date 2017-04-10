@@ -846,14 +846,12 @@ zima.ir##.overlayDiv
 ||yeknet.ir/sites/default/files/js/*
 ||zanboor.net/show.php$subdocument
 ||zoomit.ir/*/banners/*.gif
-||mytehranmusic.com/*.gif
-||mydlovemusic.org/*.gif
-||faz-music.com/*.gif
-||stersong.top/*.gif
-||myfaza2music.com/*.gif
-||music-baran.biz/*.gif
-||mytehranmusic.com##.getgrey.adsbig
-||2music-baran.biz##p
+music.org/*.gif
+music.com/*.gif
+song.top/*.gif
+baran.biz/*.gif
+tehranmusic.com##.getgrey.adsbig
+baran.biz##p
 
 ! [Ad Blocking Rules]
 -ads-manager/
