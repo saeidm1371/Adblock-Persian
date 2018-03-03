@@ -921,10 +921,7 @@ zohur12.ir##.related-posts
 ||zoomit.ir/*/banners/
 ||*.music.org/*.gif
 ||*.music.com/*.gif
-||*.song.top/*.gif
-||*.baran.biz/*.gif
 ||*.tehranmusic.com##.getgrey.adsbig
-||*.baran.biz##p
 
 ! [Ad Blocking Rules]
 -ads-manager/
