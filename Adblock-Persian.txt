@@ -1761,7 +1761,7 @@ _vps-banner*.gif
 ||www.urlrate.net/banners/$image
 ||www.webhostingtalk.ir/ads/
 ||www.xn--mgbaab1cek0c24eck.com/images/*/*.gi
-||www.�Ә���.com/ads/$image
+||www.ÇÓÑíÊ.com/ads/$image
 ||x99.ir^
 ||xemeston.ir^
 ||xperian.ir/xperian/wp-content/uploads/*.gif
@@ -2389,9 +2389,9 @@ zima.ir##.newslleterPop
 zima.ir##.overlayDiv
 zohur12.ir##.related-posts
 zoomit.ir###rt-maintopcontent
-.music.com/*.gif
-.music.info/*.gif
-.taraneh.org/.gif
-.movies.net/*.gif
-.movies.com/*.gif
-.baran.us/*.gif
+music.com/*.gif
+music.info/*.gif
+taraneh.org/.gif
+movies.net/*.gif
+movies.com/*.gif
+baran.us/*.gif
