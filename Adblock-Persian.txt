@@ -85,6 +85,7 @@ Adblock-Persian [Adblock Plus 1.13.5]
 ###banner
 ###divADV
 ###first_ads
+###fixedbanner
 ###floating-ad
 ###GlobalAdBlock
 ###home_adv
