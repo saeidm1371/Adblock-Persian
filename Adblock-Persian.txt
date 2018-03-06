@@ -266,6 +266,7 @@ Adblock-Persian [Adblock Plus 1.13.5]
 ##.header-ads
 ##.home_adv
 ##.home-ads
+##.icon-paper-plane
 ##.img-ads-center
 ##.left_ads
 ##.leftads
